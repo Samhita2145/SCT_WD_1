@@ -208,15 +208,15 @@ nav a.active {
 }
 
 .card:nth-child(1) {
-  background-image: url("assets/movie1.jpeg");
+  background-image: url("assets/Movie1.jpeg");
 }
 
 .card:nth-child(2) {
-  background-image: url("assets/movie2.jpg");
+  background-image: url("assets/Movie2.jpg");
 }
 
 .card:nth-child(3) {
-  background-image: url("assets/movie3.jpeg");
+  background-image: url("assets/Movie3.jpeg");
 }
 
 /* SECTIONS */
@@ -346,3 +346,4 @@ nav a.active {
     #8b5cf6
   );
 }
+
