@@ -7,13 +7,11 @@ and thoughtful spacing to create a refreshing user experience.
 This project was developed to demonstrate frontend fundamentals along with UI/UX thinking and interaction design.
 
 ---
-
 ## 🎥 Demo Video
 
-👉 https://github.com/samhita2145/Aurora/blob/main/preview.mp4  
+👉 https://github.com/samhita2145/SCT_WD_1/blob/main/preview.mp4  
+*(Click **View raw** if the video does not auto-play)*
 
-
----
 
 ## 🛠️ Tech Stack
 
