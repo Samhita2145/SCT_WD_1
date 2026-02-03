@@ -9,8 +9,8 @@ This project was developed to demonstrate frontend fundamentals along with UI/UX
 ---
 ## 🎥 Demo Video
 
-👉 https://github.com/samhita2145/SCT_WD_1/blob/main/preview.mp4  
-*(Click **View raw** if the video does not auto-play)*
+👉 https://raw.githubusercontent.com/samhita2145/SCT_WD_1/main/preview.mp4
+
 
 
 ## 🛠️ Tech Stack
