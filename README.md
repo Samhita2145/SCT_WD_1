@@ -8,12 +8,6 @@ This project was developed to demonstrate frontend fundamentals along with UI/UX
 
 ---
 
-## 🔗 Live Demo
-
-👉 https://samhita2145.github.io/Aurora/
-
----
-
 ## 🎥 Demo Video
 
 👉 https://github.com/samhita2145/Aurora/blob/main/preview.mp4  
